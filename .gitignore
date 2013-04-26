@@ -1,0 +1,10 @@
+.DS_Store
+*.log
+*.lock
+tmp
+bin
+build
+res
+gen
+AndroidManifest.xml
+

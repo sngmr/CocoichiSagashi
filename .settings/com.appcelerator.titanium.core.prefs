@@ -1,0 +1,14 @@
+#Fri Jan 27 19:04:34 JST 2012
+eclipse.preferences.version=1
+provisioning_profiles/development/133E7748-D2BD-4078-BBA4-C663DF8EFF70/appid=jp.sngmr.cocoichisagashi
+provisioning_profiles/development/133E7748-D2BD-4078-BBA4-C663DF8EFF70/filepath=/Users/shingo/Downloads/CocoishiSagashiDevelopmentProvisioning.mobileprovision
+provisioning_profiles/development/133E7748-D2BD-4078-BBA4-C663DF8EFF70/name=CocoishiSagashiDevelopmentProvisioning
+provisioning_profiles/development/133E7748-D2BD-4078-BBA4-C663DF8EFF70/uuid=133E7748-D2BD-4078-BBA4-C663DF8EFF70
+provisioning_profiles/development/18D9F8EF-6D53-4C1F-87B2-B2782CED947B/appid=jp.sngmr.cocoichisagashi
+provisioning_profiles/development/18D9F8EF-6D53-4C1F-87B2-B2782CED947B/filepath=/Users/shingo/Dropbox/Keys/sngmr/CocoishiSagashiDevelopmentProvisioning.mobileprovision
+provisioning_profiles/development/18D9F8EF-6D53-4C1F-87B2-B2782CED947B/name=CocoishiSagashiDevelopmentProvisioning
+provisioning_profiles/development/18D9F8EF-6D53-4C1F-87B2-B2782CED947B/uuid=18D9F8EF-6D53-4C1F-87B2-B2782CED947B
+provisioning_profiles/distribution/6B05E0E0-D00E-4799-A42E-761DC9D2ED1C/appid=jp.sngmr.cocoichisagashi
+provisioning_profiles/distribution/6B05E0E0-D00E-4799-A42E-761DC9D2ED1C/filepath=/Users/shingo/Downloads/CocoishiSagashiDistributionProvisioning.mobileprovision
+provisioning_profiles/distribution/6B05E0E0-D00E-4799-A42E-761DC9D2ED1C/name=CocoishiSagashiDistributionProvisioning
+provisioning_profiles/distribution/6B05E0E0-D00E-4799-A42E-761DC9D2ED1C/uuid=6B05E0E0-D00E-4799-A42E-761DC9D2ED1C
