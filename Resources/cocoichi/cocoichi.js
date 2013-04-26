@@ -56,7 +56,7 @@ cc1.VERSION = "2.2";
 			}
 		} else {
 			Ti.include('lib/analytics.js');
-			var analytics = new Analytics('UA-23998075-3');
+			var analytics = new Analytics('UA-00000000000-1');	// 置き換えてね
 			
 			Ti.App.addEventListener('analytics_trackPageview', function(e){
 				analytics.trackPageview(Ti.Platform.osname + '/' + e.pageUrl);
